@@ -1,2 +1,3 @@
 OIBSIP_ Level 1_task3_Temperature Converter
+
 It is a Temperature converter website.The user will input a temperature either in Fahrenheit,or in Celsius and press the "Convert" button and if the user want to reset the temperature then they will press the "Reset" button.User will also change the temperature from Celsius to Fahrenheit and from Fahrenheit to Celsius using "Change" button. The converted temperature will then be displayed with the correct unit.So in the website there is a input field for the user to type a temperature value in number.Convert button will trigger the temperature conversion.Here we've used mathematical formula for conversion in the Javascript section.
